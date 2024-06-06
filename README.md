@@ -1,6 +1,4 @@
-# Vitals.com.br
- Projeto Academico
- # VITALS – EXCELÊNCIA EM GESTÕES CLÍNICAS
+# VITALS – EXCELÊNCIA EM GESTÕES CLÍNICAS
 
 ## QUAL É A NOSSA FUNÇÃO?
 
