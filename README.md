@@ -57,7 +57,6 @@ A Vitals traz consigo um pacote de benefícios onde inclui a administração de 
    
    
   
-
 **Front-end**
 
 ● Gustavo Ricardo
