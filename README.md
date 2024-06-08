@@ -47,36 +47,36 @@ A Vitals traz consigo um pacote de benefícios onde inclui a administração de 
 **Designers**:
 
 ● Gustavo Ricardo/
-    E-mail:(gusta.contato@outlook.com )
+    E-mail (gusta.contato@outlook.com )
     
  ● Rafyc Maia/
-   E-Mail:(rafyccr7@outlook.com)
+   E-Mail (rafyccr7@outlook.com)
    
   ● Ryan Filipe/
-   E-mail:(
+   E-mail(
    
    
   
 **Front-end**
 
 ● Gustavo Ricardo/
-  E-mail: (gusta.contato@outlook.com)
+  E-mail (gusta.contato@outlook.com)
  
 ● Ryan Filipe/
-  E-mail: (
+  E-mail(
  
 ● Diogo Leal/
-  E-mail :( alexleal004@proton.me)
+  E-mail ( alexleal004@proton.me)
 
 **Back-end**
 
 ● Davi Pereira/
- E-mail:(pdavi1281@gmail.com)
+ E-mail (pdavi1281@gmail.com)
 
 ● Leonardo Ferraz/
- E-mail:(leoferraztrabalho14@gmail.com)
+ E-mail (leoferraztrabalho14@gmail.com)
 
 ● Rafyc Maia/
- E-mail:(Rafyccr7@outlook.com)
+ E-mail (Rafyccr7@outlook.com)
  
  
