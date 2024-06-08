@@ -53,7 +53,7 @@ A Vitals traz consigo um pacote de benefícios onde inclui a administração de 
    E-Mail (rafyccr7@outlook.com)
    
   ● Ryan Filipe/
-   E-mail(
+   E-mail(ryanfilipefr@gmail.com)
    
    
   
@@ -63,7 +63,7 @@ A Vitals traz consigo um pacote de benefícios onde inclui a administração de 
   E-mail (gusta.contato@outlook.com)
  
 ● Ryan Filipe/
-  E-mail(
+  E-mail(ryanfilipefr@gmail.com)
  
 ● Diogo Leal/
   E-mail ( alexleal004@proton.me)
