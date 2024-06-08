@@ -45,6 +45,7 @@ A Vitals traz consigo um pacote de benefícios onde inclui a administração de 
 ## Desenvolvimento:
 
 **Designers**:
+
 ● Gustavo Ricardo
     E-mail:(gusta.contato@outlook.com )
     
@@ -58,6 +59,7 @@ A Vitals traz consigo um pacote de benefícios onde inclui a administração de 
   
 
 **Front-end**
+
 ● Gustavo Ricardo
  E-mail: (gusta.contato@outlook.com)
  
@@ -68,6 +70,7 @@ A Vitals traz consigo um pacote de benefícios onde inclui a administração de 
 E-mail :( alexleal004@proton.me)
 
 **Back-end**
+
 ● Davi Pereira
 E-mail:(pdavi1281@gmail.com)
 
