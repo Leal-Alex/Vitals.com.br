@@ -30,6 +30,80 @@ body {
     min-height: 480px;
 }
 
+.mobile-container {
+    display: none; /* Inicialmente escondido */
+}
+
+/* Estilos para dispositivos móveis */
+@media (max-width: 768px) {
+    .container {
+        display: none; /* Esconder o design original */
+    }
+
+    .mobile-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+        width: 90%;
+        max-width: 400px;
+        padding: 20px;
+    }
+
+    .mobile-container h1 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .mobile-container input {
+        background-color: #eee;
+        border: none;
+        margin: 10px 0;
+        padding: 10px 15px;
+        font-size: 16px;
+        border-radius: 8px;
+        width: 100%;
+        outline: none;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .mobile-container button {
+        background-color: #512da8;
+        color: #fff;
+        font-size: 14px;
+        padding: 10px 45px;
+        border: 1px solid transparent;
+        border-radius: 8px;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
+        margin-top: 20px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .mobile-container button:hover {
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .mobile-container p {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+
+    .mobile-container p a {
+        color: #512da8;
+        text-decoration: none;
+    }
+
+    .mobile-container p a:hover {
+        text-decoration: underline;
+    }
+}   
+
 .container p {
     font-size: 14px;
     line-height: 20px;
