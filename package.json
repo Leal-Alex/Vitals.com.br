@@ -1,0 +1,14 @@
+{
+    "name": "login-page",
+    "version": "1.0.0",
+    "description": "Página de login com back-end em Node.js",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+    }
+  }
+  
